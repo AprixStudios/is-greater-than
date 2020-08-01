@@ -1,6 +1,6 @@
 {
   "name": "is-greater-than",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Determines if x is greater than y",
   "main": "index.js",
   "scripts": {

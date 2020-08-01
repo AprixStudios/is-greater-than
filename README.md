@@ -34,7 +34,7 @@ npm run test
 ```
 
 ## Example
-```
+```js
 const isGreaterThan = require('is-greater-than');
 
 isGreaterThan(1,2) // False
